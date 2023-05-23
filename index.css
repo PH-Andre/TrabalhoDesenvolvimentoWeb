@@ -1,0 +1,13 @@
+.cinza{
+    background-color: gray;
+}
+
+.cinza-fraco{
+    background-color: rgb(179, 178, 178);
+}
+
+.border-black{
+    border: solid 2px black;
+    width: 100px;
+    height: 100px;
+}
